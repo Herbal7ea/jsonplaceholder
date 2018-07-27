@@ -48,16 +48,16 @@ h1 {
 .see-also {
   border-bottom: 1px solid #DDD;
   font-size: 14px;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
+}
+
+.see-also h2 {
+  margin-top: 0;
+  margin-bottom: 30px;
 }
 
 .see-also a {
   color: inherit;
-}
-
-img {
-  vertical-align: middle;
-  height: 40px;
 }
 
 a.sponsor {
